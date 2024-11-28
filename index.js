@@ -67,6 +67,3 @@ app.get('/', (req, res) => {
 app.listen(app.get('port'), () => {
     console.log(`Aplicación corriendo en el puerto ${app.get('port')}`);
 });
-
-git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
